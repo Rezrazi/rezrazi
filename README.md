@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Charaf</h1>
+<h1 align="center">👋 Hello there ! I'm Charaf</h1>
 <h3 align="center">A passionate full-stack developer living in Paris, France</h3>
 
-
-- 🔭 I’m currently working on [ProDoc (closed-source entreprise app)]([redacted])
+- 🔭 I’m currently working on [ProDoc (closed-source entreprise app)](https://example.com)
 
 - 👯 I’m looking to collaborate on [TwitchWizard (soon-to-be open source app)](https://github.com/rezrazi/twitchwizard)
 
